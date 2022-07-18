@@ -1,2 +1,2 @@
-# voice_assistant
+# assistant
 jarvis
